@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.formatOnSave": true,
+    "css.lint.duplicateProperties": "warning",
+    "html.format.indentInnerHtml": true,
+    "emmet.includeLanguages": {
+      "html": "html"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "ritwickdey.LiveServer",
+      "esbenp.prettier-vscode",
+      "formulahendry.auto-rename-tag",
+      "bradlc.vscode-tailwindcss"
+    ]
+  }
+}
